@@ -1,1 +1,2 @@
-Contenido modificado desde rama1 
+Contenido modificado desde rama1
+Contenido modificado desde rama2
